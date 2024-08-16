@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandra
-- ⚡ Third year student at Indian Institute of Information Technology, Kottayam
+- ⚡ Pre-Final year student at Indian Institute of Information Technology, Kottayam
 - 🌱 I’m currently doing Btech In computer Science with specialization in Cyber Security  
 - 👀 I’m interested in Web dev, UI/UX design , AI/ML
 - 💞️ I’m looking to collaborate on intersting project
