@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Sandra
 - ⚡ Pre-Final year student at Indian Institute of Information Technology, Kottayam
-- 🌱 I’m currently doing Btech In computer Science with specialization in Cyber Security  
-- 👀 I’m interested in Web dev, UI/UX design , AI/ML
-- 💞️ I’m looking to collaborate on intersting project
-- 📫 How to reach me Linkedin: https://www.linkedin.com/in/sandra-sabu-02462924a/
+- 🌱 Currently doing Btech In computer Science with specialization in Cyber Security  
+- 👀 Interested in Web dev, UI/UX design , AI/ML
+- 💞️ Likes to collaborate on intersting project
+- 📫 Reach me @Linkedin: https://www.linkedin.com/in/sandra-sabu-02462924a/
 - 😄 Pronouns: She/HER
 
 
