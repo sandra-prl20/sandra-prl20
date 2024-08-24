@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandra
 - ⚡ Pre-Final year student at Indian Institute of Information Technology, Kottayam
-- 🌱 Currently doing Btech In computer Science with specialization in Cyber Security  
+- 🌱 Currently doing Btech In Computer Science with specialization in Cyber Security  
 - 👀 Interested in Web dev, UI/UX design , AI/ML
 - 💞️ Likes to collaborate on intersting project
 - 📫 Reach me @Linkedin: https://www.linkedin.com/in/sandra-sabu-02462924a/
